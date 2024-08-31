@@ -21,6 +21,7 @@
 .main-login input {
   width: 100%;
 }
+
 .main-login button {
   width: 100%;
   background-color: #5f3b44;
@@ -39,6 +40,13 @@
 .main-aaa a {
   text-decoration: none;
   color: #5f3b44;
-  font-weight: 500px;
+  font-weight: 500;
   font-size: 18px;
+}
+
+::placeholder {
+  color: #5f3b44;
+  font-weight: 500;
+  font-size: 18px;
+  font-family: "Josefin Sans", sans-serif;
 }

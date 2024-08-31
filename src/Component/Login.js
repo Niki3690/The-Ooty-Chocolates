@@ -9,10 +9,9 @@ const Login = () => {
       <div className='main'>
         <div className='main1'></div>
       </div>
-
-      <div>
-        <div className="row justify-content-center main-login">
-          <div className='col-lg-4 col-sm-12 col-md-12 mt-5'>
+      <div className='container-fluid'>
+        <div className="row justify-content-center text-center main-login">
+          <div className='col-lg-4  col-md-6 col-sm-12 mt-5'>
             <input type='email' placeholder='Email' className='p-2' /><br />
             <input type='password' placeholder='Password' className='p-2 mt-4' />
             <button type='submit' className='p-3 mt-4'>SIGN IN</button>
