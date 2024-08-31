@@ -15,7 +15,7 @@ const Homemade = () => {
                             <div className='col-lg-4 col-md-6 col-sm-12 g-3'>
                                 <img src={demo.img} className='home-img container-fluid' />
                                 <p className='text-center mt-3  map-color'> {demo.title}</p>
-                                <p className='text-center prices'> RS. {demo.price}</p>
+                                <p className='text-center prices p-0 m-0'> RS. {demo.price}</p>
                             </div>
 
                         )

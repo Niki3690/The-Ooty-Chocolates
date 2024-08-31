@@ -6,10 +6,10 @@ const Home = () => {
   return (
     <div>
       <Carasoul />
-      <div className='home mt-3'>
+      <div className='home pt-3'>
         <h1 className='pt-5'>Homemade Fresh Chocolates</h1>
         <div className='line pb-5'>
-          <div className='hr mb-3'></div>
+          <div className='hr pb-3'></div>
         </div>
       </div>
       <Homemade />

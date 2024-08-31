@@ -1,0 +1,44 @@
+.login {
+  color: #5f3b44;
+  font-family: Quicksand, sans-serif;
+  font-size: 39px;
+  font-weight: 700;
+  line-height: 53px;
+}
+
+.main1 {
+  width: 50px;
+  border-bottom: 2px solid #5f3b44;
+}
+
+.main {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+}
+
+.main-login input {
+  width: 100%;
+}
+.main-login button {
+  width: 100%;
+  background-color: #5f3b44;
+  color: white;
+  border: none;
+  font-weight: 700;
+}
+
+.main-login button:hover {
+  background-color: rgba(95, 59, 68, 0.75);
+}
+
+.main-aaa {
+  line-height: 35px !important;
+}
+.main-aaa a {
+  text-decoration: none;
+  color: #5f3b44;
+  font-weight: 500px;
+  font-size: 18px;
+}

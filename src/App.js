@@ -7,6 +7,7 @@ import Aboutus from "./Component/Aboutus"
 import Login from "./Component/Login"
 import Search from "./Component/Search"
 import Cart from "./Component/Cart"
+// import Footer from './Component/Footer'
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
           <Route path='search' element={<Search />} />
           <Route path='cart' element={<Cart />} />
         </Routes>
+        {/* <Footer /> */}
       </BrowserRouter>
 
     </div>

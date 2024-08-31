@@ -1,0 +1,21 @@
+.footerr a {
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+  color: #5f3b44;
+}
+
+.footerr p {
+  color: #5f3b44;
+  text-align: right;
+  line-height: 29px;
+}
+
+.footerr {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  /* text-align: center; */
+
+}
