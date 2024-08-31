@@ -1,0 +1,45 @@
+.nav-color {
+  background-color: #5f3b44;
+  text-align: center;
+  position: relative;
+}
+
+.nav-free {
+  padding: 10px 30px;
+  font-weight: 700;
+  padding: 10px 30px;
+  margin: 0;
+  font-size: 17px;
+  line-height: 27px;
+}
+
+.nav-logo {
+  max-width: 130px;
+  object-fit: cover;
+}
+
+/* .nav-headings{
+    background: url('https://theootychocolates.com/cdn/shop/files/banner-1_4e087ce7-63d9-432f-acdb-14d78d24082c_1512x.jpg?v=1691064801');
+  } */
+
+.nav-headings a {
+  color: #5f3b44;
+  font-family: Roboto, sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+}
+
+.nav-headings a:hover {
+  color: rgba(95, 59, 68, 0.75);
+}
+
+.nav-icons i {
+  color: #5f3b44;
+}
+
+.nav-icons i:hover {
+  color: rgba(95, 59, 68, 0.75);
+}
+
+
